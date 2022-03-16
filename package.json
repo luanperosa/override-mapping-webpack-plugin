@@ -1,8 +1,8 @@
 {
-  "name": "override-mapping-webpack-plugin",
+  "name": "override-mapping-webpack-plugin-pwa-studio",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@bitbucket.org:webjump/override-mapping-webpack-plugin.git",
-  "author": "Webjump Core Team <dev@webjump.com.br>",
+  "repository": "https://github.com/luanperosa/override-mapping-webpack-plugin.git",
+  "author": "Luan Perosa Chitto",
   "license": "MIT"
 }

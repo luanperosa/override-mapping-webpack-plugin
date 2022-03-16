@@ -5,7 +5,7 @@ This plugin is used on PWA Studio project. It helps you to override components/f
 # Usage
 
 ```
-$ yarn add -D bitbucket:webjump/override-mapping-webpack-plugin
+$ yarn add -D https://github.com/luanperosa/override-mapping-webpack-plugin
 ```
 
 Import it as a new plugin on your `webpack.config.js` file.
