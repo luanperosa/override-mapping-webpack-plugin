@@ -1,0 +1,8 @@
+{
+  "name": "override-mapping-webpack-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@bitbucket.org:webjump/override-mapping-webpack-plugin.git",
+  "author": "Webjump Core Team <dev@webjump.com.br>",
+  "license": "MIT"
+}
